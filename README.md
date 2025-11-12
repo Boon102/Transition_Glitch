@@ -4,7 +4,6 @@
 https://github.com/Boon102/Transition_Glitch.git
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
 I'll be creating a thing that's somwhat similar to how digital rain is executed. I'll be attempting to make a transistion from a black screen into a scene. What im doing to make this more unique and challanging is by having a sort of glitch transistion between from the black screen into the scene that starts from the top right, that then progressively ends towards the bottom left of the screen. the line that transistion between from a black screen into the scene will be differing in terms of how much of the screen is revealed, the way the glitch is represented, and how it'll act. this relates to digital media because of how this transistion can be applied into a game: like in a cyberpunk world where the main characters turns on their cybernetic eye, transistioning from a black screen into the scene of the game
 
 ## Features
