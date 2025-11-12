@@ -1,4 +1,4 @@
-# VFX Glitch transition
+# Glitch transition
 
 ## Repository
 https://github.com/Boon102/Transition_Glitch.git
