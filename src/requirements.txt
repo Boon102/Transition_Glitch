@@ -1,2 +1,5 @@
 Pygame.pip
 Image download of Scene.png for the image in video. Can use any image you desire by replacing "scene.png" with the new image file in line 10 (will have to move desired image into src)
+to change tint, press W
+to change glitch color, press E
+to reset back to normal, press Q
