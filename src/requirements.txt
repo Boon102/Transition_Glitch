@@ -1,2 +1,2 @@
 Pygame.pip
-Image download of Scene.png for the image in video. Can use any image you desire by replacing "scene.png" with the new image file in line 10
+Image download of Scene.png for the image in video. Can use any image you desire by replacing "scene.png" with the new image file in line 10 (will have to move desired image into src)
